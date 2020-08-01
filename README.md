@@ -1,9 +1,8 @@
-#React Helpers
+# React Helpers
 
 ___
 
-###React Header Component
-___
+### React Header Component
 
 	import React from "react";
 
@@ -37,4 +36,6 @@ ___
 	};
 
 	export default Header;
+	
+***
 
