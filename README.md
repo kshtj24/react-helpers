@@ -1,6 +1,5 @@
 # React Helpers
 
-___
 
 ### React Header Component
 
@@ -39,3 +38,8 @@ ___
 	
 ***
 
+### VS Code settings
+
+[Copy this json data to settings.json in the Visual Studio Code and see the magic.](https://gist.github.com/kshtj24/ee8fdd8801822a44c9509e9cc06eab93)
+
+***
