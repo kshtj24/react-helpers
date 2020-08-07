@@ -56,4 +56,28 @@ passport for oauth
 dynamic route https://gist.github.com/NMinhNguyen/e8834956acfa828821bdf2c133807dc8 
 #### Bootstrap Documentation
 
+https://www.json.org/json-en.html
+https://www.kennethlange.com/rest-api-checklist/
+https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+https://httpstatuses.com/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+http://youmightnotneedjquery.com/
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+https://www.mockaroo.com/
+https://github.com/praveenscience/GfG-Leadstagram/tree/Repeated-Component
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+https://reactjs.org/docs/forms.html#controlled-components
+https://github.com/praveenscience/Bootstrap-React-Helpers
+https://getbootstrap.com/docs/4.5/components/navbar/
+https://getbootstrap.com/docs/4.5/components/list-group/
+https://reactrouter.com/
+https://reactrouter.com/web/example/basic
+https://github.com/praveenscience/GfG-Leadstagram/tree/Pages-Router-Demo
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://github.com/axios/axios
+https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
+https://github.com/praveenscience/GfG-Leadstagram/tree/AJAX-States
+https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 ***
